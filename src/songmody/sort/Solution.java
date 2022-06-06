@@ -9,7 +9,7 @@ class Solution {
         int j = 0;
         int k = 0;
         List<Integer> modifiedArr = new ArrayList<>();
-        modifiedArr.setanswer = new int[commands.length];
+//        modifiedArr.setan = new int[commands.length];
         for(int p = 0; p < commands.length; p++){
             i = commands[p][0];
             j = commands[p][1];
