@@ -1,4 +1,4 @@
-package hash.spy;
+package songmody.hash.spy;
 
 import java.util.HashMap;
 import java.util.Map;

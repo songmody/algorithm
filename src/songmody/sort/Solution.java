@@ -1,4 +1,4 @@
-package sort;
+package songmody.sort;
 
 import java.util.*;
 

@@ -1,4 +1,4 @@
-package stackqueue.Coin;
+package songmody.stackqueue.Coin;
 
 import java.util.ArrayList;
 import java.util.List;

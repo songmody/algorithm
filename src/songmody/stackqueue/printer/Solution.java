@@ -1,4 +1,4 @@
-package stackqueue.printer;
+package songmody.stackqueue.printer;
 
 import java.util.LinkedList;
 import java.util.Queue;

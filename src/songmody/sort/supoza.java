@@ -1,4 +1,4 @@
-//package sort;
+//package songmody.sort;
 //
 //import java.util.Arrays;
 //import java.util.List;
@@ -21,7 +21,7 @@
 //            ansList[i] = scores[i];
 //        }
 //        //오름차순정렬 -> 제일 높은 요소가 ansList의 맨 마지막 위치인 ansList[2]에 위치하게됨
-//        Arrays.sort(ansList);
+//        Arrays.songmody.sort(ansList);
 //        List<Integer> list = new ArrayList<>();
 //
 //        for(int i = 0; i< scores.length; i++){

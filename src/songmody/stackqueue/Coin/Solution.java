@@ -1,6 +1,4 @@
-package stackqueue.Coin;
-
-import java.util.*;
+package songmody.stackqueue.Coin;
 
 class Solution {
     public int[] solution(int[] prices) {

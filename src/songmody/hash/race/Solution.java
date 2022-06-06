@@ -1,4 +1,4 @@
-package hash.race;
+package songmody.hash.race;
 
 import java.util.HashMap;
 

@@ -1,4 +1,4 @@
-package hash.music;
+package songmody.hash.music;
 
 import java.util.*;
 
