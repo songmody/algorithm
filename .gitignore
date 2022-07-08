@@ -1,2 +1,4 @@
 #ignore file
 /out
+.idea
+/programmers.iml
